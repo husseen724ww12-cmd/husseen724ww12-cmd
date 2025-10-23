@@ -9,9 +9,14 @@
 - 💻 Currently learning **C++** and **JavaScript**  
 - 🌱 Passionate about creating clean, responsive web interfaces  
 - 🎯 Always exploring new ways to make the web more beautiful and interactive  
-- ⚡ Fun fact: I believe every line of code has its own rhythm 🎵  
-  
+- ⚡ Fun fact: I believe every line of code has its own rhythm 🎵
+- 
 
+  ![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseen724ww12-cmd-cmd&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen724ww12-cmd&layout=compact&theme=radical)
+
+لالاbb
+لا
 <br/>  
 
 ## 🧠 Tech Stack  
