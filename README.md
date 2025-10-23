@@ -24,13 +24,10 @@
 
 ## 🌐 Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-<img src="https://img.shields.io/badge/My%20Website-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
-<div align="center">
-💼 You can find me on my professional page on LinkedIn.
+💼 You can find me on my professional page on LinkedIn:  
+👉 [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
 </div>  
 
 <br/>  
@@ -43,3 +40,4 @@
 
 ----
 <div align="center">Generated with ❤️ by Hussein</div>
+
