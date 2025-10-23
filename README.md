@@ -45,8 +45,11 @@
 
 <br/>  
 
+## 👁️ Profile Views  
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=husseen724ww12-cmd&&style=flat-square" align="center" />
+  
+  <img src="https://komarev.com/ghpvc/?username=husseen724ww12-cmd&label=Profile%20Views&color=ff0055&style=for-the-badge" alt="Profile views" />
+  
 </div>  
 
 ---
