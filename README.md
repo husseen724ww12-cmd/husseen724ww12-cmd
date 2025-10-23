@@ -24,20 +24,14 @@
 
 ## 🌐 Connect with me  
 <div align="center">
-<a href="https://github.com/USERNAME" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/roblox-%D9%85%D9%84%D9%87%D8%A7%D8%B4-%D8%AD%D9%84-432663394/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/My%20Website-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## 📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center">
+💼 You can find me on my professional page on LinkedIn.
+</div>  
 
 <br/>  
 
