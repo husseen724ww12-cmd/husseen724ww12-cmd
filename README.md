@@ -24,6 +24,8 @@
 
 ## 🌐 Connect with me  
 <div align="center">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"a/>
+  ششa
 <a href="http://127.0.0.1:5500/main.htm" target="_blank">
 <img src="https://img.shields.io/badge/My%20Website-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>  
